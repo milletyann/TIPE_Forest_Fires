@@ -1,0 +1,3 @@
+Voici le code source et le dataset que j'ai utilisé pour mon TIPE en prépa MP (année 2020-2021) ainsi que le beamer en pdf de la présentation orale que j'en ai faite. J'ai dû recopier tout le code et je ne l'ai pas testé par la suite, faites-moi savoir si certaines parties ne fonctionnent pas je le corrigerai.
+
+Here is the source code and the dataset that I used for my TIPE in classes préparatoires Maths and Physics (2020-2021) with the beamer of the presentation I made of it. I had to retype the code manually and I haven't tested it since, let me know if some parts don't work and I will fix it. 
